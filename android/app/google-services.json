@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117584712678",
+    "project_id": "ahmed-learnfirebase01",
+    "storage_bucket": "ahmed-learnfirebase01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117584712678:android:97428890e5d8d357973c27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117584712678-0t7843o39ac3cppr1t41caeqjvunjhjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwtsUl5T-xHLsxTN4EkxKSCHxzoDK03I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117584712678-0t7843o39ac3cppr1t41caeqjvunjhjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
